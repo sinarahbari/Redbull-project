@@ -13,15 +13,6 @@ div.first {
   background-attachment: fixed;
 }
 
-div.first h1 {
-  height: auto;
-  background-color: rgb(0, 0, 0);
-  color: aliceblue;
-  box-sizing: border-box;
-  box-shadow: 5px 5px 20px;
-  text-align: justify center;
-  font-family: SABeginner;
-}
 div.first p {
   height: auto;
   background-color: rgb(0, 0, 0);
