@@ -1,0 +1,131 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+div.first {
+  width: 100%;
+  height: 100vh;
+  background-image: url(/picture/RBWOR_KEY_VISUAL_16_9_1920x1080_WEB__1_.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+div.first h1 {
+  height: auto;
+  background-color: rgb(0, 0, 0);
+  color: aliceblue;
+  box-sizing: border-box;
+  box-shadow: 5px 5px 20px;
+  text-align: justify center;
+  font-family: SABeginner;
+}
+div.first p {
+  height: auto;
+  background-color: rgb(0, 0, 0);
+  color: aliceblue;
+  box-sizing: border-box;
+  box-shadow: 5px 5px 20px;
+  text-align: justify center;
+  font-family: SABeginner;
+}
+
+div.second {
+  width: 100%;
+  height: 100vh;
+  background-image: url(/picture/Redbull-x-Ford.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+div.second h2 {
+  color: rgb(255, 255, 255);
+  box-sizing: border-box;
+  box-shadow: 5px 5px 5px;
+  padding-top: 20px;
+  font-family: SABeginner;
+}
+
+div.second p {
+  background-color: rgba(0, 255, 255, 0.411);
+  color: rgb(0, 0, 0);
+  box-sizing: border-box;
+  box-shadow: 15px 15px 15px;
+  border-radius: 20px;
+  text-align: justify;
+  padding: 50px;
+  margin: 80px;
+  font-family: SABeginner;
+}
+
+div.third {
+  width: 100%;
+  height: 100vh;
+  background-image: url(/picture/img_198065_shutterstock_625264535_bg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+  background-attachment: fixed;
+}
+
+div.third h2 {
+  color: rgb(255, 255, 255);
+  box-sizing: border-box;
+  box-shadow: 5px 5px 5px;
+  padding-top: 50px;
+  font-family: SABeginner;
+}
+
+div.third p {
+  background-color: rgba(71, 71, 71, 0.534);
+  color: rgb(255, 255, 255);
+  box-sizing: border-box;
+  box-shadow: 10px 10px 10px black;
+  border-radius: 20px;
+  text-align: justify;
+  padding: 10px;
+  margin: 50px;
+  font-family: SABeginner;
+}
+
+div.fourth {
+  width: 100%;
+  height: 100vh;
+  background-image: url(/picture/q11q11.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+div.fourth h2 {
+  color: rgb(0, 0, 0);
+  box-sizing: border-box;
+  box-shadow: 5px 5px 5px;
+  padding-top: 20px;
+  font-family: SABeginner;
+}
+
+div.fourth h4 {
+  background-color: rgb(65, 0, 0);
+  color: rgb(255, 255, 255);
+  border-radius: 100%;
+  margin: 10px;
+  font-family: SABeginner;
+  text-decoration: double;
+}
+
+div.fourth p {
+  background-color: rgba(182, 182, 182, 0.664);
+  border-radius: 20px;
+  color: rgb(0, 0, 0);
+  box-sizing: border-box;
+  box-shadow: 15px 15px 15px rgb(0, 0, 0);
+  border-radius: 20px;
+  text-align: justify;
+  padding: 50px;
+  margin: 80px;
+  font-family: SABeginner;
+}
