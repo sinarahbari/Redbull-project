@@ -46,7 +46,7 @@ div.second p {
   box-shadow: 15px 15px 15px;
   border-radius: 20px;
   text-align: justify;
-  padding: 50px;
+  padding: 30px;
   margin: 80px;
   font-family: SABeginner;
 }
@@ -120,4 +120,6 @@ div.fourth p {
   padding: 50px;
   margin: 80px;
   font-family: SABeginner;
+
+  
 }
