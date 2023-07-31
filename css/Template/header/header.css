@@ -30,7 +30,7 @@ header > div.title > h1 {
 header > nav {
   width: 100%;
   height: inherit;
-  color: whitesmoke;
+  color: rgb(255, 255, 255);
 }
 
 header > nav > ul {
@@ -47,15 +47,23 @@ header > nav > ul > li {
   display: inline-block;
   background-color: rgb(255, 255, 255);
   padding: 10px;
-  margin: 15px;
-  color: rgb(255, 255, 255);
-  border-radius: 20px;
+  margin: 12px;
+  border-radius: 5px;
   text-align: center;
   border-top-left-radius: 30px;
   border-top-right-radius: 40px;
   font-family: SABeginner;
   text-decoration: none;
   font-size: large;
+  transition: 2s;
+}
+
+header > nav > ul > li:hover {
+  background-color: #ffae00;
+  transition-duration: 4ms;
+  font-size: x-large;
+  border-bottom-left-radius: 30px;
+  border-top-right-radius: 30px;
 }
 
 /* menu end */

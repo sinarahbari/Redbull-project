@@ -91,16 +91,23 @@ header > nav > ul > li {
   display: inline-block;
   background-color: rgb(255, 255, 255);
   padding: 10px;
-  margin: 15px;
-  color: rgb(255, 255, 255);
-  border-radius: 20px;
+  margin: 12px;
+  border-radius: 5px;
   text-align: justify;
-  border-top-left-radius: 30px;
-  border-top-right-radius: 40px;
   font-family: SABeginner;
   text-decoration: none;
-  font-size: large;
+  font-size: medium;
+  transition: 2s;
 }
+
+header > nav > ul > li:hover {
+  background-color: #ffae00;
+  transition-duration: 4ms;
+  font-size: x-large;
+  border-bottom-left-radius: 30px;
+  border-top-right-radius: 30px;
+}
+
 /* menu end */
 
 /* article start */
@@ -234,5 +241,15 @@ div.scroll4 {
   color: whitesmoke;
   text-transform: capitalize;
 }
-
 /* article end */
+
+/* footer start */
+div.footer {
+  height: 40px;
+  display: block;
+  background-color: #000000f9;
+  text-align: center;
+  color: #ffc400;
+  padding: 9px;
+}
+/* footer end */
