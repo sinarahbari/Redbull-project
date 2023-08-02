@@ -28,7 +28,7 @@ header > div.title > h1 {
   color: whitesmoke;
   box-sizing: border-box;
   text-align: justify center;
-  font-family: SABeginner;
+  font-family: bebas;
   padding: 5px;
 }
 /* title end */
@@ -52,7 +52,7 @@ div.first-N > h2 {
   width: 5%;
   height: 5vh;
   text-align: left;
-  font-family: SABeginner;
+  font-family: bebas;
   text-transform: uppercase;
   font-size: 50px;
   font-style: italic;
@@ -60,12 +60,12 @@ div.first-N > h2 {
 }
 
 div.first-N > p {
-  color: whitesmoke;
+  color: rgb(199, 199, 199);
   margin: 40px auto;
   padding: 90px;
   background-color: rgba(0, 3, 46, 0.527);
   text-align: justify;
-  font-family: SABeginner;
+  font-family: bebas;
 }
 /* background picture end */
 
@@ -94,7 +94,7 @@ header > nav > ul > li {
   margin: 12px;
   border-radius: 5px;
   text-align: justify;
-  font-family: SABeginner;
+  font-family: bebas;
   text-decoration: none;
   font-size: medium;
   transition: 2s;
@@ -126,10 +126,10 @@ div.art {
   background-image: url(/picture/1q.png);
   background-repeat: no-repeat;
   background-size: cover;
-  text-align: justify;
+  text-align: left;
   background-attachment: scroll;
   background-position: center;
-  font-family: SABeginner;
+  font-family: bebas;
   box-sizing: border-box;
   box-shadow: 8px 8px 15px rgb(255, 255, 255);
   direction: ltr;
@@ -142,8 +142,9 @@ div.scroll {
   display: block;
   overflow: scroll;
   border-radius: 30px;
-  text-align: center;
+  text-align: justify center;
   text-transform: capitalize;
+  text-indent: 20px;
 }
 
 div.art2 {
@@ -156,10 +157,10 @@ div.art2 {
   background-image: url(/picture/2q.png);
   background-repeat: no-repeat;
   background-size: cover;
-  text-align: justify;
+  text-align: center;
   background-attachment: scroll;
   background-position: center;
-  font-family: SABeginner;
+  font-family: bebas;
   box-sizing: border-box;
   box-shadow: 8px 8px 15px rgb(255, 255, 255);
   direction: rtl;
@@ -169,12 +170,12 @@ div.scroll2 {
   width: 400px;
   height: 550px;
   margin: 10px;
-  background-color: #860900bb;
+  background-color: #860900d5;
   display: block;
   overflow: scroll;
   border-radius: 30px;
   text-align: center;
-  color: whitesmoke;
+  color: rgb(199, 199, 199);
   text-transform: capitalize;
 }
 
@@ -190,7 +191,7 @@ div.art3 {
   background-size: cover;
   text-align: left;
   background-attachment: scroll;
-  font-family: SABeginner;
+  font-family: bebas;
   box-sizing: border-box;
   box-shadow: 8px 8px 15px rgb(255, 255, 255);
   direction: ltr;
@@ -205,9 +206,10 @@ div.scroll3 {
   display: block;
   overflow: scroll;
   border-radius: 30px;
-  text-align: center;
-  color: whitesmoke;
+  text-align: justify center;
+  color: rgb(0, 0, 0);
   text-transform: capitalize;
+  text-indent: 20px;
 }
 
 div.art4 {
@@ -220,9 +222,9 @@ div.art4 {
   background-image: url(/picture/3q.png);
   background-repeat: no-repeat;
   background-size: cover;
-  text-align: left;
+  text-align: center;
   background-attachment: scroll;
-  font-family: SABeginner;
+  font-family: bebas;
   box-sizing: border-box;
   box-shadow: 8px 8px 15px rgb(255, 255, 255);
   direction: rtl;
@@ -238,8 +240,9 @@ div.scroll4 {
   overflow: scroll;
   border-radius: 30px;
   text-align: center;
-  color: whitesmoke;
+  color: rgb(199, 199, 199);
   text-transform: capitalize;
+  text-indent: 20px;
 }
 /* article end */
 
@@ -247,7 +250,7 @@ div.scroll4 {
 div.footer {
   height: 40px;
   display: block;
-  background-color: #000000f9;
+  background-color: #000000;
   text-align: center;
   color: #ffc400;
   padding: 9px;

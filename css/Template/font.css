@@ -1,16 +1,16 @@
 @font-face {
-  font-family: SABeginner;
-  src: url(../../Fonts/eng/EduSABeginner-Regular.eot);
+  font-family: bebas;
+  src: url(../../Fonts/eng/BebasNeue-Regular.ttf);
 }
 @font-face {
-  font-family: SABeginner;
-  src: url(../../Fonts/eng/EduSABeginner-Regular.ttf);
+  font-family: bebas;
+  src: url(../../Fonts/eng/BebasNeue-Regular.ttf.eot);
 }
 @font-face {
-  font-family: SABeginner;
-  src: url(../../Fonts/eng/EduSABeginner-Regular.woff);
+  font-family: bebas;
+  src: url(../../Fonts/eng/BebasNeue-Regular.ttf.woff);
 }
 @font-face {
-  font-family: SABeginner;
-  src: url(../../Fonts/eng/EduSABeginner-Regular.woff2);
+  font-family: bebas;
+  src: url(../../Fonts/eng/BebasNeue-Regular.ttf.woff2);
 }

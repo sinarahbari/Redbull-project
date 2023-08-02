@@ -1,0 +1,142 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* header start */
+
+header {
+  width: 100%;
+  height: 90px;
+  position: sticky;
+  top: -90px;
+  z-index: 2;
+}
+
+/* title start */
+header > div.title {
+  width: inherit;
+  height: inherit;
+}
+
+header > div.title > h1 {
+  font-size: 50px;
+  text-transform: capitalize;
+  height: inherit;
+  background-color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
+  box-sizing: border-box;
+  text-align: justify center;
+  font-family: bebas;
+  padding: 5px;
+}
+/* title end */
+
+/* header end */
+
+/* menu start */
+header > nav {
+  width: 100%;
+  height: inherit;
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+}
+
+header > nav > ul {
+  width: 100%;
+  height: 60px;
+  padding: 0%;
+  list-style: none;
+  background-color: #000000ad;
+}
+
+header > nav > ul > li {
+  width: auto;
+  height: 40px;
+  display: inline-block;
+  background-color: rgb(255, 255, 255);
+  padding: 10px;
+  margin: 12px;
+  border-radius: 5px;
+  text-align: justify;
+  font-family: bebas;
+  text-decoration: none;
+  font-size: medium;
+  transition: 2s;
+}
+
+header > nav > ul > li:hover {
+  background-color: #ffae00;
+  transition-duration: 4ms;
+  font-size: x-large;
+  border-bottom-left-radius: 30px;
+  border-top-right-radius: 30px;
+}
+
+/* menu end */
+
+/* form start */
+
+section.CONTACT {
+  padding: 30px;
+  height: auto;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: bottom;
+  background-color: rgb(0, 0, 0);
+}
+
+div.form {
+  width: 70%;
+  margin: 70px auto;
+  padding: 30px;
+  border-radius: 20px;
+  box-shadow: inset 5px 5px 15px rgb(0, 0, 0);
+  font-family: bebas;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-attachment: fixed;
+  background-position: top;
+  background-image: url(/picture/contact\ us\ 3.jpg);
+}
+
+form {
+  width: 100%;
+  border-radius: inherit;
+}
+
+input[type="text"],
+select,
+textarea {
+  display: block;
+  margin-bottom: 20px;
+  font-size: 18px;
+  border-radius: 20px;
+  width: 50%;
+  padding-left: 10px;
+  font-family: bebas;
+  border: inset solid rgb(255, 255, 255) 1px;
+  text-transform: capitalize;
+  outline: none;
+  transition: 2.5s;
+}
+
+label {
+  display: inline-block;
+  font-size: 24px;
+  font-weight: bold;
+  text-transform: capitalize;
+}
+
+textarea {
+  resize: none;
+  height: 200px;
+}
+
+input[type="text"]:focus,
+textarea:focus {
+  width: 100%;
+}
+/* form end */

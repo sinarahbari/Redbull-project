@@ -21,7 +21,7 @@ div.first p {
   box-sizing: border-box;
   box-shadow: 5px 5px 20px;
   text-align: justify center;
-  font-family: SABeginner;
+  font-family: bebas;
 }
 
 div.second {
@@ -33,11 +33,11 @@ div.second {
   background-attachment: fixed;
 }
 div.second h2 {
-  color: rgb(255, 255, 255);
+  color: rgb(199, 199, 199);
   box-sizing: border-box;
   box-shadow: 5px 5px 5px;
   padding-top: 20px;
-  font-family: SABeginner;
+  font-family: bebas;
 }
 
 div.second p {
@@ -49,7 +49,7 @@ div.second p {
   text-align: justify;
   padding: 30px;
   margin: 80px;
-  font-family: SABeginner;
+  font-family: bebas;
 }
 
 div.third {
@@ -63,23 +63,23 @@ div.third {
 }
 
 div.third h2 {
-  color: rgb(255, 255, 255);
+  color: rgb(199, 199, 199);
   box-sizing: border-box;
   box-shadow: 5px 5px 5px;
   padding-top: 50px;
-  font-family: SABeginner;
+  font-family: bebas;
 }
 
 div.third p {
   background-color: rgba(71, 71, 71, 0.534);
-  color: rgb(255, 255, 255);
+  color: rgb(199, 199, 199);
   box-sizing: border-box;
   box-shadow: 10px 10px 10px black;
   border-radius: 20px;
   text-align: justify;
   padding: 10px;
   margin: 50px;
-  font-family: SABeginner;
+  font-family: bebas;
 }
 
 div.fourth {
@@ -97,7 +97,7 @@ div.fourth h2 {
   box-sizing: border-box;
   box-shadow: 5px 5px 5px;
   padding-top: 20px;
-  font-family: SABeginner;
+  font-family: bebas;
 }
 
 div.fourth h4 {
@@ -106,7 +106,7 @@ div.fourth h4 {
   border-radius: 50%;
   margin: 60px;
   padding: 10px;
-  font-family: SABeginner;
+  font-family: bebas;
   font-size: medium;
 }
 
@@ -120,7 +120,7 @@ div.fourth p {
   text-align: justify;
   padding: 50px;
   margin: 80px;
-  font-family: SABeginner;
+  font-family: bebas;
 }
 /* body home page end */
 
@@ -132,5 +132,6 @@ div.footer {
   text-align: center;
   color: #ffc400;
   padding: 9px;
+  font-family: bebas;
 }
 /* footer end */
