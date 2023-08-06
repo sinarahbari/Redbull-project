@@ -29,7 +29,7 @@ header > div.title > h1 {
   box-sizing: border-box;
   text-align: justify center;
   font-family: bebas;
-  padding: 5px;
+  padding: 12px;
 }
 /* title end */
 
@@ -126,18 +126,19 @@ div.art {
   background-image: url(/picture/1q.png);
   background-repeat: no-repeat;
   background-size: cover;
-  text-align: left;
+  text-align: center;
   background-attachment: scroll;
   background-position: center;
   font-family: bebas;
   box-sizing: border-box;
-  box-shadow: 8px 8px 15px rgb(255, 255, 255);
+  box-shadow: 8px 8px 20px #ffae00;
   direction: ltr;
 }
 div.scroll {
   width: 400px;
   height: 550px;
   margin: 10px;
+  padding: 20px;
   background-color: #00ff8091;
   display: block;
   overflow: scroll;
@@ -162,7 +163,7 @@ div.art2 {
   background-position: center;
   font-family: bebas;
   box-sizing: border-box;
-  box-shadow: 8px 8px 15px rgb(255, 255, 255);
+  box-shadow: 8px 8px 20px #ffae00;
   direction: rtl;
 }
 
@@ -170,11 +171,12 @@ div.scroll2 {
   width: 400px;
   height: 550px;
   margin: 10px;
+  padding: 20px;
   background-color: #860900d5;
   display: block;
   overflow: scroll;
   border-radius: 30px;
-  text-align: center;
+  text-align: justify center;
   color: rgb(199, 199, 199);
   text-transform: capitalize;
 }
@@ -189,11 +191,11 @@ div.art3 {
   background-image: url(/picture/4q.png);
   background-repeat: no-repeat;
   background-size: cover;
-  text-align: left;
+  text-align: center;
   background-attachment: scroll;
   font-family: bebas;
   box-sizing: border-box;
-  box-shadow: 8px 8px 15px rgb(255, 255, 255);
+  box-shadow: 8px 8px 20px #ffae00;
   direction: ltr;
   align-items: end;
 }
@@ -202,6 +204,7 @@ div.scroll3 {
   width: 400px;
   height: 550px;
   margin: 10px;
+  padding: 20px;
   background-color: #666666c7;
   display: block;
   overflow: scroll;
@@ -226,7 +229,7 @@ div.art4 {
   background-attachment: scroll;
   font-family: bebas;
   box-sizing: border-box;
-  box-shadow: 8px 8px 15px rgb(255, 255, 255);
+  box-shadow: 8px 8px 20px #ffae00;
   direction: rtl;
   align-items: end;
 }
@@ -235,11 +238,12 @@ div.scroll4 {
   width: 400px;
   height: 550px;
   margin: 10px;
+  padding: 20px;
   background-color: #000000c7;
   display: block;
   overflow: scroll;
   border-radius: 30px;
-  text-align: center;
+  text-align: justify center;
   color: rgb(199, 199, 199);
   text-transform: capitalize;
   text-indent: 20px;
