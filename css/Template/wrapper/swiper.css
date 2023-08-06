@@ -19,6 +19,12 @@ main > section.swipertop {
   object-fit: cover;
 }
 
+.swiper-slide imag.one {
+  object-position: top;
+}
 
+.swiper-slide imag.seven {
+  object-position: top right;
+}
 
 /* swiper Top end */
