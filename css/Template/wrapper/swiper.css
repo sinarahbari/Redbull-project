@@ -15,7 +15,7 @@ main > section.swipertop {
 .swiper-slide img {
   display: block;
   width: 100%;
-  height: 85vh;
+  height: 100vh;
   object-fit: cover;
 }
 
@@ -26,5 +26,8 @@ main > section.swipertop {
 .swiper-slide imag.seven {
   object-position: top right;
 }
-
 /* swiper Top end */
+
+/* swiper bottom start */
+
+/* swiper bottom end */
