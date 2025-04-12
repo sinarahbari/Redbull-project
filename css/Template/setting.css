@@ -8,7 +8,7 @@
 div.first {
   width: 100%;
   height: 100vh;
-  background-image: url(/picture/RBWOR_KEY_VISUAL_16_9_1920x1080_WEB__1_.jpg);
+  background-image: url(/picture/pic3.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
@@ -27,7 +27,7 @@ div.first p {
 div.second {
   width: 100%;
   height: 100vh;
-  background-image: url(/picture/Redbull-x-Ford.jpg);
+  background-image: url(/picture/3q.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
@@ -85,7 +85,7 @@ div.third p {
 div.fourth {
   width: 100%;
   height: 100vh;
-  background-image: url(/picture/q11q11.jpg);
+  background-image: url(/picture/pic1.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
