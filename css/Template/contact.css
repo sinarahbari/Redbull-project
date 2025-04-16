@@ -86,7 +86,6 @@ section.CONTACT {
   background-attachment: fixed;
   background-position: bottom;
   background-color: #000000;
-  
 }
 
 div.form {
@@ -100,7 +99,7 @@ div.form {
   background-size: contain;
   background-attachment: fixed;
   background-position: top;
-  background-image: url(/picture/contact\ us\ 3.jpg);
+  background-image: url(/picture/CONTACT.jpg);
 }
 
 form {
