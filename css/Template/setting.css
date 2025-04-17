@@ -8,7 +8,7 @@
 div.first {
   width: 100%;
   height: 100vh;
-  background-image: URL(../../pic3.jpg);
+  background-image: URL(../pic3.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
@@ -27,7 +27,7 @@ div.first p {
 div.second {
   width: 100%;
   height: 100vh;
-  background-image: URL(../../3q.png);
+  background-image: URL(../3q.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
@@ -55,7 +55,7 @@ div.second p {
 div.third {
   width: 100%;
   height: 100vh;
-  background-image: URL(../../img_198065_shutterstock_625264535_bg.jpg);
+  background-image: URL(../img_198065_shutterstock_625264535_bg.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: bottom;
@@ -85,7 +85,7 @@ div.third p {
 div.fourth {
   width: 100%;
   height: 100vh;
-  background-image: URL(../../pic1.jpg);
+  background-image: URL(../pic1.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
