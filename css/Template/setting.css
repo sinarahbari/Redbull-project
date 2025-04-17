@@ -181,10 +181,16 @@ footer {
   }
 
 
-
   
 }
 
+
+@media screen and (max-width: 1179px) {
+  nav {
+    font-size: 10px; 
+    padding: 10px;   
+  }
+}
 
 
 
