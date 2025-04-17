@@ -33,3 +33,15 @@ var swiper = new Swiper(".mySwiper", {
 });
 
 // swiper bottom end
+
+
+
+// menu responsive page
+const menuToggle = document.querySelector('.menu-toggle');
+const menu = document.querySelector('.menu');
+
+menuToggle.addEventListener('click', () => {
+    menu.classList.toggle('active');
+});
+
+
