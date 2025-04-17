@@ -123,6 +123,23 @@ textarea {
   transition: 2.5s;
 }
 
+button[type="submit"] {
+  font-family: bebas;
+  font-size: 20px;
+  color: #ffffff;
+  background-color: #ff4500;
+  border: none;
+  border-radius: 10px;
+  padding: 10px 20px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+button[type="submit"]:hover {
+  background-color: #ff6347; /* رنگ پس‌زمینه هنگام هاور */
+  transform: scale(1.1); /* بزرگ‌تر شدن هنگام هاور */
+}
+
 label {
   display: inline-block;
   font-size: 24px;
