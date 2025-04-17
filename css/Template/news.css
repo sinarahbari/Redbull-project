@@ -123,7 +123,7 @@ div.art {
   margin: 50px;
   padding: 10px;
   border-radius: 30px;
-  background-image: url(/picture/1q.png);
+  background-image: URL(../../picture/1q.png);
   background-repeat: no-repeat;
   background-size: cover;
   text-align: center;
@@ -155,7 +155,7 @@ div.art2 {
   margin: 50px;
   padding: 10px;
   border-radius: 30px;
-  background-image: url(/picture/2q.png);
+  background-image: URL(../../picture/2q.png);
   background-repeat: no-repeat;
   background-size: cover;
   text-align: center;
@@ -188,7 +188,7 @@ div.art3 {
   padding: 10px;
   display: inline-block;
   border-radius: 30px;
-  background-image: url(/picture/4q.png);
+  background-image: URL(../../picture/4q.png);
   background-repeat: no-repeat;
   background-size: cover;
   text-align: center;
@@ -222,7 +222,7 @@ div.art4 {
   padding: 10px;
   display: inline-block;
   border-radius: 30px;
-  background-image: url(/picture/3q.png);
+  background-image: URL(../../picture/3q.png);
   background-repeat: no-repeat;
   background-size: cover;
   text-align: center;
