@@ -147,8 +147,9 @@ div.footer {
 
 @media (max-width: 768px) {
   img {
-    width: 100%;
     height: auto; 
+    max-width: 100%;
+
   }
 
 
@@ -168,6 +169,15 @@ div.footer {
     font-size: 12px;
     padding: 10px;
   }
+
+
+footer {
+    padding: 20px;
+    font-size: 14px;
+  }
+
+ 
+
 }
 
 
