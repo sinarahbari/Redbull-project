@@ -172,6 +172,8 @@ div.footer {
 footer {
     padding: 10px;   /* 30 */
     font-size: 12px;
+    height: -40px;
+    display: block;
   }
 
 
