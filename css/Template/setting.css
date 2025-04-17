@@ -142,9 +142,6 @@ div.footer {
 
 
 
-
-
-
 @media (max-width: 768px) {
  img {
     width: 100%;
@@ -173,7 +170,7 @@ div.footer {
 
 
 footer {
-    padding: 12px;
+    padding: 30px;
     font-size: 12px;
   }
 
