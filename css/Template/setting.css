@@ -152,7 +152,7 @@ div.footer {
 
 
   body {
-    font-size: 12px; 
+    font-size: 10px; 
     line-height: 1.5; 
   }
 
@@ -171,18 +171,13 @@ div.footer {
 
 footer {
     padding: 30px;
-    
     font-size: 12px;
   
   }
 
 
-  body {
-    font-size: 10px; 
-  }
-
   header, footer, nav, p, h1, h2, h3 {
-    font-size: 12px; 
+    font-size: 10px; 
   }
 
 
