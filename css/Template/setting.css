@@ -135,3 +135,19 @@ div.footer {
   font-family: bebas;
 }
 /* footer end */
+
+
+
+
+
+
+@media (max-width: 768px) {
+    body {
+        font-size: 14px;
+    }
+}
+
+
+
+
+
