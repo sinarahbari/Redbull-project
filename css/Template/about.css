@@ -109,3 +109,77 @@ div.IMG > p {
   color: rgb(0, 0, 0);
   text-transform: unset;
 }
+
+
+/*--------------------------------------------------*/
+
+
+
+
+/* Responsive design for smaller screens */
+@media (max-width: 768px) {
+  header > div.title > h1 {
+    font-size: 30px;
+    padding: 8px;
+  }
+
+  header > nav > ul > li {
+    font-size: medium;
+    padding: 8px;
+    margin: 10px;
+  }
+
+  div.ABOUT {
+    padding: 40px;
+    font-size: medium;
+  }
+
+  div.IMG {
+    height: 400px;
+  }
+
+  div.IMG > p {
+    width: auto;
+    height: auto;
+    padding: 20px;
+  }
+}
+
+@media (max-width: 480px) {
+  header > div.title > h1 {
+    font-size: 20px;
+    padding: 5px;
+  }
+
+  header > nav > ul > li {
+    font-size: small;
+    padding: 5px;
+    margin: 8px;
+  }
+
+  div.ABOUT {
+    padding: 20px;
+    font-size: small;
+  }
+
+  div.IMG {
+    height: 300px;
+  }
+
+  div.IMG > p {
+    padding: 10px;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
