@@ -46,7 +46,5 @@ menuToggle.addEventListener('click', () => {
 
 
 
-window.onload = function () {
-    alert("خوش آمدید! از بازدید شما از سایت ما خوشحالیم.");
-};
+
 
